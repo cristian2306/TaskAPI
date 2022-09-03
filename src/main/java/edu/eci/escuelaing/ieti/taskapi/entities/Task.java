@@ -17,7 +17,7 @@ public class Task {
     }
 
     public void setName(String name) {
-        this.name = name;
+        this.name = name ;
     }
 
     public String getDescription() {
